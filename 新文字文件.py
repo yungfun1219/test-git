@@ -1,2 +1,1 @@
-print("test")
-print("test")
+print(sorted([3,1,7,5], reverse=True))
